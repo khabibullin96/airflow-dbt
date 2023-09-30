@@ -1,3 +1,2 @@
 .env
-dbt/venv
 logs/
