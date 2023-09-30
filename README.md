@@ -7,7 +7,7 @@
 
 2. `echo -e "AIRFLOW_UID=$(id -u)" > .env`
 
-3. `docker compose  up airflow-init`
+3. `docker compose up airflow-init`
 
 4. `docker compose up`
 
