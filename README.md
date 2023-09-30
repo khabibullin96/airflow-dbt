@@ -1,9 +1,8 @@
 # airflow-dbt
 
 ## Install
-1. Create a virtual environment `python -m venv venv` in the dbt directory.
 
-2. `mkdir -p ./logs ./plugins ./config`
+1. `mkdir -p ./logs ./plugins ./config`
 
 2. `echo -e "AIRFLOW_UID=$(id -u)" > .env`
 
